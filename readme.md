@@ -51,12 +51,6 @@
 
 ### 📊 Stats & Achievements
 
-<div align="center">
-  <a href="https://leetcode.com/u/pratyushprasad16/">
-    <img src="https://leetcard.jacoblin.cool/pratyushprasad16?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats">
-  </a>
-</div>
-
 <br>
 
 <div align="center">
