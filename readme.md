@@ -64,3 +64,19 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-48&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
+---
+
+### 🏆 Competitive Programming Profile
+
+<div align="center">
+  <a href="https://leetcode.com/u/pratyushprasad16/">
+    <img src="https://leetcard.jacoblin.cool/pratyushprasad16?theme=radical&font=Fira%20Code&ext=contest" alt="Pratyush's LeetCode Rating" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-48&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-48&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
+</div>
