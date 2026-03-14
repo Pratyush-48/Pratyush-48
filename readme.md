@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Pratyush Ranjan Prasad! 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007990&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+@+IIIT+Bhubaneswar;LeetCode+Knight+(Max+Rating:+2098);Full-Stack+MERN+Developer;AI+Tech+Contributor+@+Airdawglabs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007990&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+@+IIIT+Bhubaneswar;LeetCode+Knight+(Max+Rating:+2098);Full-Stack+MERN+Developer;Technical+Contributor+@+Airdawglabs" alt="Typing SVG" />
 </div>
 
 <p align="center">
