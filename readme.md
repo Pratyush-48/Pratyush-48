@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 * 🎓 3rd-year B.Tech IT undergrad at **IIIT Bhubaneswar** (Class of 2027).
-* 💼 Currently working as a **Technical Contributor at Airdawglabs**, guiding LLMs to engineer production-ready Python PRs for open-source repositories.
+* 💼 Currently working as a **Technical Contributor at Airdawglabs**, reviewing production-ready PRs for open-source repositories.
 * 🏆 Passionate about Competitive Programming: **LeetCode Knight** & Codeforces enthusiast.
 * 💻 I love building real-time applications using **Socket.io** and the **MERN** stack.
 * 🌱 Currently learning: **Java, Spring Boot, and Advanced System Design (LLD)**.
