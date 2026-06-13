@@ -44,7 +44,7 @@
 
 ### 🚀 Featured Projects
 * **[CodeSync](https://codesync-hmt6.onrender.com):** A collaborative real-time code editor supporting 15+ languages using JDoodle API and Socket.io.
-* **[Connect](https://connect-h2wl.onrender.com):** A low-latency, full-stack real-time chat application with JWT authentication.
+* **[Connect](https://connect-ezy0.onrender.com):** A low-latency, full-stack real-time chat application with JWT authentication.
 * **Findease:** A web-based doctor appointment booking system for seamless patient-healthcare professional connections.
 
 ---
